@@ -5,7 +5,7 @@
 ## Task A – NumPy From Scratch (Manual Backprop + TF einsum)
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_A_COLAB_LINK  
+https://colab.research.google.com/drive/1enUYa8FUbL9rTmM8JRw36snn47L4kbVP?usp=sharing
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_A_VIDEO_LINK  
