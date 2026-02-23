@@ -65,7 +65,7 @@ https://youtube.com/watch?v=TASK_E2_VIDEO_LINK
 ## Task E(iii) – TensorFlow Functional API
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_E3_COLAB_LINK  
+https://colab.research.google.com/drive/1kfMhNaTxOKE91qWT5ecKr5zMBZqf4N12?usp=sharing 
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_E3_VIDEO_LINK  
@@ -75,7 +75,7 @@ https://youtube.com/watch?v=TASK_E3_VIDEO_LINK
 ## Task E(iv) – TensorFlow High-Level API Variant
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_E4_COLAB_LINK  
+https://colab.research.google.com/drive/1CZc371UfWrXVP80BXtIQKj5PyQ0wTiI_?usp=sharing
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_E4_VIDEO_LINK  
