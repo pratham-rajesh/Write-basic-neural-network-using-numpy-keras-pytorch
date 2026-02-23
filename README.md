@@ -35,7 +35,7 @@ https://youtube.com/watch?v=TASK_C_VIDEO_LINK
 ## Task D – PyTorch Lightning Implementation
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_D_COLAB_LINK  
+https://colab.research.google.com/drive/1nFnIx4EeeVzcg8hrCkcHKx32WQNM7yxU?usp=sharing  
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_D_VIDEO_LINK  
