@@ -25,7 +25,7 @@ https://youtube.com/watch?v=TASK_B_VIDEO_LINK
 ## Task C – PyTorch Using nn.Module (Built-in Layers)
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_C_COLAB_LINK  
+https://colab.research.google.com/drive/1_BI5kiIXHftao17tQFXYb8stdMF6p91T?usp=sharing 
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_C_VIDEO_LINK  
