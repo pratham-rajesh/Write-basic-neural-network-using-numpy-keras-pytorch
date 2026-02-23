@@ -45,7 +45,7 @@ https://youtube.com/watch?v=TASK_D_VIDEO_LINK
 ## Task E(i) – TensorFlow Low-Level (From Scratch)
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_E1_COLAB_LINK  
+https://colab.research.google.com/drive/1r_3geWcksxwzSYQp6vZLU_JIVpKI03Q1?usp=sharing
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_E1_VIDEO_LINK  
