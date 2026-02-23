@@ -55,7 +55,7 @@ https://youtube.com/watch?v=TASK_E1_VIDEO_LINK
 ## Task E(ii) – TensorFlow Built-in Layers (Sequential)
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_E2_COLAB_LINK  
+https://colab.research.google.com/drive/1DdgAtFalzHPeh4N4rPnjSVWXefmIR7Fi?usp=sharing
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_E2_VIDEO_LINK  
