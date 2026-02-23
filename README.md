@@ -15,7 +15,7 @@ https://youtube.com/watch?v=TASK_A_VIDEO_LINK
 ## Task B – PyTorch From Scratch (No Built-in Layers)
 
 **Colab Notebook:**  
-https://colab.research.google.com/drive/TASK_B_COLAB_LINK  
+https://colab.research.google.com/drive/19GDa5Tj1RGr04T717ek0XVXFnSUc6Cid?usp=sharing 
 
 **Video Walkthrough:**  
 https://youtube.com/watch?v=TASK_B_VIDEO_LINK  
